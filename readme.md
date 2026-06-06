@@ -1,10 +1,10 @@
 ## g-mp
 
-This repository contains a server and client implementation for a multiplayer game (similar to SA-MP and other multiplayer games).
+This repository contains a server implementation for a multiplayer game (similar to SA-MP and other multiplayer games).
 
 ### Documentation
 
-* [Documentation for the server and client is available here](docs.md)
+* [Documentation for the server is available here](docs.md)
 
 ### license
 
