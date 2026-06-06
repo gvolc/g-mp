@@ -1,6 +1,6 @@
 ## g-mp
 
-This repository contains a server implementation for a multiplayer game (similar to SA-MP and other multiplayer games).
+This repository contains a server implementation for a multiplayer game as part of learning Rust and C++ (similar to SA-MP and other multiplayer games).
 
 ### Documentation
 
